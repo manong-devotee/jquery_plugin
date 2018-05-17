@@ -3,6 +3,7 @@
 
 fullPage.js
 
+
     jquery 全屏滚动插件，是一个基于 jQuery 的插件，它能够很方便、很轻松的制作出全屏网站。
     
     示例：http://www.dowebok.com/demo/2014/77/
