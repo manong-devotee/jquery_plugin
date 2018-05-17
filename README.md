@@ -6,9 +6,11 @@ fullPage.js
     jquery 全屏滚动插件，是一个基于 jQuery 的插件，它能够很方便、很轻松的制作出全屏网站。
     
     示例：http://www.dowebok.com/demo/2014/77/
+    
     示例：http://www.dowebok.com/demo/2014/97/      （网易邮箱6.0）
     
-    
+
+
 WoW.js
 
     有的页面在向下滚动的时候，有些元素会产生细小的动画效果。虽然动画比较小，但却能吸引你的注意.
@@ -37,7 +39,8 @@ lasyload.js
     
 animate.css
 
-    是一个来自国外的 CSS3 动画库，它预设了抖动（shake）、闪烁（flash）、弹跳（bounce）、翻转（flip）、旋转（rotateIn/rotateOut）、淡入淡出（fadeIn/fadeOut）等多达 60 多种动画效果，几乎包含了所有常见的动画效果。
+     是一个来自国外的 CSS3 动画库，它预设了抖动（shake）、闪烁（flash）、弹跳（bounce）、翻转（flip）、旋转（rotateIn/rotateOut）、淡入淡出（fadeIn/fadeOut）等多达 60 多种动画效果，几乎包含了所有常见的动画效果。
+    
      浏览器兼容：当然是只兼容支持 CSS3 animate 属性的浏览器，他们分别是：IE10+、Firefox、Chrome、Opera、Safari。
      
      
